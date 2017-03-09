@@ -86,5 +86,14 @@ namespace oogyak
         public abstract void f3(); // dinamikus kötésű absztract metódus (abstract method). Absztrakt metódus == virtuális metódus törzs nélkül/ kifejtés nélkül
 
         public abstract void f4(); // dinamikus kötésű absztract metódus (abstract method). Absztrakt metódus == virtuális metódus törzs nélkül/ kifejtés nélkül
+
+        // member hiding példa
+        public void f11() { Console.WriteLine("xyz::f11"); } // statikus kötésű metódus
+
+        // static method példa
+        protected static void f13()
+        {
+
+        }
     }
 }

@@ -44,6 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="asd.cs" />
+    <Compile Include="bnm.cs" />
+    <Compile Include="ijk.cs" />
+    <Compile Include="ijkos.cs" />
+    <Compile Include="klm.cs" />
+    <Compile Include="qwert.cs" />
+    <Compile Include="reszl1.cs" />
+    <Compile Include="reszl2.cs" />
+    <Compile Include="statikusosztaly.cs" />
     <Compile Include="xyc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -23,5 +23,7 @@ namespace oogyak
         public override void f3() // xyz::f3 absztrakt metódusát override-oltuk / megvalósítottuk / realizáltuk
         {           
         }
+
+       
     }
 }

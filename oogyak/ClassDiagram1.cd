@@ -3,12 +3,12 @@
   <Class Name="oogyak.xyz" Collapsed="true">
     <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAQAAAAAAAAA=</HashCode>
+      <HashCode>AAEAAAgAAAAAAAAAgAACAQAAAACABACgIQBACgAAAgA=</HashCode>
       <FileName>xyc.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="oogyak.Program" Collapsed="true">
-    <Position X="3" Y="0.5" Width="1.5" />
+    <Position X="7.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
@@ -17,9 +17,58 @@
   <Class Name="oogyak.abc" Collapsed="true">
     <Position X="0.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
       <FileName>abc.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="oogyak.asd" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAgAEAQAAAAAAAAAAAAABAIAAAAAAgAAAgA=</HashCode>
+      <FileName>asd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oogyak.klm" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>klm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oogyak.reszl1" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAA=</HashCode>
+      <FileName>reszl1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oogyak.statikusosztaly" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAA=</HashCode>
+      <FileName>statikusosztaly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="oogyak.ijk" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ijk.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oogyak.ijkos" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ijkos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="oogyak.bnm" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bnm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Tahoma" Size="8.25" />
 </ClassDiagram>
